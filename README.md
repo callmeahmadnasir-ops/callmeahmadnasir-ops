@@ -88,7 +88,7 @@ print(me.get_motto())
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=callmeahmadnasir-ops&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true"/>
 
 </div>
 
