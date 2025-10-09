@@ -84,11 +84,11 @@ print(me.get_motto())
 
 <div align="center">
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=callmeahmadnasir-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=callmeahmadnasir-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeahmadnasir-ops&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=callmeahmadnasir-ops&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -96,8 +96,8 @@ print(me.get_motto())
 
 <div align="center">
 
-[![Quran App](https://github-readme-stats.vercel.app/api/pin/?username=callmeahmadnasir-ops&repo=ahmad-quran-app&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops/ahmad-quran-app)
-[![ML Models](https://github-readme-stats.vercel.app/api/pin/?username=callmeahmadnasir-ops&repo=ahmad-ml-models&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops/ahmad-ml-models)
+[![Quran App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=callmeahmadnasir-ops&repo=ahmad-quran-app&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops/ahmad-quran-app)
+[![ML Models](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=callmeahmadnasir-ops&repo=ahmad-ml-models&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops/ahmad-ml-models)
 
 </div>
 
@@ -113,7 +113,7 @@ print(me.get_motto())
 
 <div align="center">
   
-![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=callmeahmadnasir-ops&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeahmadnasir-ops&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -202,6 +202,6 @@ const ahmadFacts = {
 
 <div align="center">
   
-![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
