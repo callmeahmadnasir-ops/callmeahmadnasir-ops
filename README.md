@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmad%20Nasir&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Expert%20%26%20App%20Developer&descAlignY=51&descAlign=62"/>
-</div>
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hey there! I'm Ahmad Nasir <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <div align="center">
