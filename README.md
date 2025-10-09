@@ -18,6 +18,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
+🚀 **AI Expert & App Developer** from Pakistan 🇵🇰
+
+I'm passionate about **AI integration** and **automation**, constantly exploring new technologies to build intelligent solutions. Every day, I test **10+ AI tools** and work on innovative projects that combine artificial intelligence with practical applications.
+
+### 🎯 **What I Do:**
+- 🤖 **AI Integration Specialist** - Connecting AI APIs with web applications
+- ⚡ **Automation Engineer** - Building smart workflows and processes  
+- 💻 **Web Developer** - Creating user-friendly applications
+- 🕌 **Islamic Tech Innovator** - Technology solutions for Muslim community
+
+### 💡 **My Expertise:**
+- **Languages:** JavaScript, Python, HTML, CSS
+- **AI Tools:** OpenAI, ChatGPT, Claude, Midjourney
+- **Automation:** n8n, Make, Zapier
+- **Deployment:** Firebase, Vercel, Netlify
+
 ```python
 class AhmadNasir:
     def __init__(self):
@@ -25,19 +41,19 @@ class AhmadNasir:
         self.role = "AI Expert & App Developer"
         self.location = "Pakistan 🇵🇰"
         self.specialization = "AI Integration & Automation"
-        self.languages = ["JavaScript", "Python", "HTML", "CSS"]
-        self.expertise = ["AI Apps", "Automation", "Web Development"]
         self.daily_routine = "Testing 10+ AI tools every day"
+        self.motto = "Building intelligent solutions for tomorrow"
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing with AI 🚀")
-        
-    def get_motto(self):
-        return "AI Expert building intelligent solutions"
+    def current_focus(self):
+        return [
+            "AI-powered web applications",
+            "Smart automation workflows", 
+            "Islamic tech solutions",
+            "AI tool integration"
+        ]
 
 me = AhmadNasir()
-me.say_hi()
-print(me.get_motto())
+print(f"🚀 {me.motto}")
 ```
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> What I'm Working On
