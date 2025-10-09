@@ -6,13 +6,11 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=🚀+AI+Expert+%26+App+Developer;⚡+Automation+Engineer;🤖+AI+Integration+Specialist;💻+Building+Smart+Solutions;🌟+Welcome+to+my+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=🚀+AI+Expert+%26+App+Developer;⚡+Automation+Engineer;🤖+AI+Integration+Specialist;💻+Building+Smart+Solutions)
 
 [![GitHub followers](https://img.shields.io/github/followers/callmeahmadnasir-ops?label=Followers&style=social)](https://github.com/callmeahmadnasir-ops)
 [![GitHub stars](https://img.shields.io/github/stars/callmeahmadnasir-ops?label=Stars&style=social)](https://github.com/callmeahmadnasir-ops)
 [![Profile Views](https://komarev.com/ghpvc/?username=callmeahmadnasir-ops&color=blueviolet&style=flat-square)](https://github.com/callmeahmadnasir-ops)
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 </div>
 
@@ -57,10 +55,6 @@ me = AhmadNasir()
 print(f"🚀 {me.motto}")
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="40">
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> What I'm Working On
 
 ### 🤖 AI App Development
@@ -73,10 +67,6 @@ print(f"🚀 {me.motto}")
 - **📖 Quran AI Applications** - Smart Islamic companion apps
 - **🕐 Prayer Time Systems** - Automated Islamic scheduling
 - **🌙 Islamic Web Apps** - Technology serving the Muslim community
-
-<div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500"/>
-</div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack & Expertise
 
@@ -111,10 +101,6 @@ print(f"🚀 {me.motto}")
 
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-</div>
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" alt="Git"/> GitHub Analytics
 
 <div align="center">
@@ -125,8 +111,6 @@ print(f"🚀 {me.motto}")
 
 <img src="https://streak-stats.demolab.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true"/>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
-
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
@@ -135,8 +119,6 @@ print(f"🚀 {me.motto}")
 
 [![Quran App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=callmeahmadnasir-ops&repo=ahmad-quran-app&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops/ahmad-quran-app)
 [![ML Models](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=callmeahmadnasir-ops&repo=ahmad-ml-models&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops/ahmad-ml-models)
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 </div>
 
@@ -148,13 +130,11 @@ print(f"🚀 {me.motto}")
 | 🤖 **[AI Models Collection](https://github.com/callmeahmadnasir-ops/ahmad-ml-models)** | AI-powered applications and tools | Python, JavaScript, AI APIs | Smart automation, AI integration | ✅ Active |
 | 🌤️ **[Weather API](https://github.com/callmeahmadnasir-ops/ahmad-weather-api)** | Smart weather application | JavaScript, APIs, Firebase | Real-time weather data | ✅ Active |
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Contribution Activity
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"> Contribution Activity
 
 <div align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeahmadnasir-ops&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500"/>
 
 </div>
 
@@ -172,11 +152,7 @@ print(f"🚀 {me.motto}")
 - [ ] Islamic tech solutions with AI integration
 - [ ] Smart chatbots and AI assistants
 
-<div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> What Makes Me Special
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> What Makes Me Special
 
 ### 🔥 Daily AI Routine
 ```markdown
@@ -198,15 +174,13 @@ Ahmad's AI Exploration:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="70"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect & Collaborate
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-nasir-8215722a1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callmeahmadnasir-ops)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:callmeahmadnasir@gmail.com)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Let's build something amazing together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
 </div>
 
@@ -229,17 +203,13 @@ const ahmadFacts = {
 };
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500"/>
-</div>
-
 ---
 
 <div align="center">
 
 ### 🌟 "AI Expert building intelligent solutions for a better tomorrow" 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Always+happy+to+connect!;Let's+build+the+future+together!;🚀+Ready+to+collaborate!;💡+Let's+create+magic!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Always+happy+to+connect!;Let's+build+the+future+together!" />
 
 </div>
 
