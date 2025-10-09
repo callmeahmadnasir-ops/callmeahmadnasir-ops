@@ -6,13 +6,11 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Expert+%26+App+Developer;Automation+Engineer;AI+Integration+Specialist;Building+Smart+Solutions;Welcome+to+my+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Expert+%26+App+Developer;Automation+Engineer;AI+Integration+Specialist;Building+Smart+Solutions)
 
 [![GitHub followers](https://img.shields.io/github/followers/callmeahmadnasir-ops?label=Followers&style=social)](https://github.com/callmeahmadnasir-ops)
 [![GitHub stars](https://img.shields.io/github/stars/callmeahmadnasir-ops?label=Stars&style=social)](https://github.com/callmeahmadnasir-ops)
 [![Profile Views](https://komarev.com/ghpvc/?username=callmeahmadnasir-ops&color=blueviolet&style=flat-square)](https://github.com/callmeahmadnasir-ops)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -42,8 +40,6 @@ me.say_hi()
 print(me.get_motto())
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> What I'm Working On
 
 ### 🤖 AI App Development
@@ -56,10 +52,6 @@ print(me.get_motto())
 - **📖 Quran AI Applications** - Smart Islamic companion apps
 - **🕐 Prayer Time Systems** - Automated Islamic scheduling
 - **🌙 Islamic Web Apps** - Technology serving the Muslim community
-
-<div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's connect and build something amazing together!***&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack & Expertise
 
@@ -94,8 +86,6 @@ print(me.get_motto())
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Analytics
 
 <div align="center">
@@ -106,10 +96,6 @@ print(me.get_motto())
 
 <img src="https://streak-stats.demolab.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🔥%20GitHub%20Stats%20🔥&fontSize=15&fontColor=fff"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
@@ -129,18 +115,12 @@ print(me.get_motto())
 | 🤖 **[AI Models Collection](https://github.com/callmeahmadnasir-ops/ahmad-ml-models)** | AI-powered applications and tools | Python, JavaScript, AI APIs | Smart automation, AI integration | ✅ Active |
 | 🌤️ **[Weather API](https://github.com/callmeahmadnasir-ops/ahmad-weather-api)** | Smart weather application | JavaScript, APIs, Firebase | Real-time weather data | ✅ Active |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Contribution Activity
 
 <div align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeahmadnasir-ops&theme=tokyo-night&hide_border=true"/>
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI;One+App+at+a+Time;Let's+Create+Something+Amazing!;Daily+AI+Explorer;Smart+Solutions+Builder" />
 </div>
 
 ## <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="35"> Current Goals & Focus
@@ -157,19 +137,7 @@ print(me.get_motto())
 - [ ] Islamic tech solutions with AI integration
 - [ ] Smart chatbots and AI assistants
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Skills & Expertise
-
-<div align="center">
-
-### 🧠 AI & Automation
-![AI Expert](https://img.shields.io/badge/AI_Integration-Expert-brightgreen?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Advanced-blue?style=flat-square)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What Makes Me Special
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> What Makes Me Special
 
 ### 🔥 Daily AI Routine
 ```markdown
@@ -187,17 +155,17 @@ Ahmad's AI Exploration:
 - **💻 Web Development**: Simple, effective web applications
 - **🕌 Islamic Tech**: Technology solutions for Muslim community
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect & Collaborate
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-nasir-8215722a1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callmeahmadnasir-ops)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:callmeahmadnasir@gmail.com)
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Let's build something amazing together!** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 </div>
 
@@ -220,21 +188,13 @@ const ahmadFacts = {
 };
 ```
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E1EAFC,100:F7D794&height=40&section=header&text=🌟%20Thanks%20for%20visiting!%20🌟&fontSize=15&fontColor=fff"/>
-</div>
-
 ---
 
 <div align="center">
 
 ### 🌟 "AI Expert building intelligent solutions for a better tomorrow" 🌟
 
-**⚡ Let's build something amazing with AI! ⚡**
-
-**Building the future with AI, one app at a time**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Always+happy+to+connect!;Let's+build+the+future+together!;AI+%2B+Innovation+%3D+Success" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Always+happy+to+connect!;Let's+build+the+future+together!" />
 
 </div>
 
