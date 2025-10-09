@@ -83,15 +83,12 @@ print(me.get_motto())
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=callmeahmadnasir-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeahmadnasir-ops&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
-</div>
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=callmeahmadnasir-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeahmadnasir-ops&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true)
 
 </div>
 
