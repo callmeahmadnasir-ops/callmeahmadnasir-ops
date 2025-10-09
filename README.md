@@ -138,7 +138,6 @@ print(me.get_motto())
 ### 🧠 AI & Automation
 ![AI Expert](https://img.shields.io/badge/AI_Integration-Expert-brightgreen?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-Advanced-blue?style=flat-square)
-![Web Apps](https://img.shields.io/badge/Web_Apps-Intermediate-yellow?style=flat-square)
 
 </div>
 
