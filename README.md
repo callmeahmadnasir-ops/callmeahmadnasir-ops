@@ -200,12 +200,12 @@ const ahmadFacts = {
 
 **⚡ Let's build something amazing with AI! ⚡**
 
-*"The future is AI, and I'm building it one app at a time"* - Ahmad Nasir
+**Building the future with AI, one app at a time**
 
 </div>
 
 <div align="center">
   
-![Snake animation](https://github.com/callmeahmadnasir-ops/callmeahmadnasir-ops/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
