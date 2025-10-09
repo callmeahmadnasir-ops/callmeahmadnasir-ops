@@ -26,7 +26,6 @@ I'm passionate about **AI integration** and **automation**, constantly exploring
 - 🤖 **AI Integration Specialist** - Connecting AI APIs with web applications
 - ⚡ **Automation Engineer** - Building smart workflows and processes  
 - 💻 **Web Developer** - Creating user-friendly applications
-- 🕌 **Islamic Tech Innovator** - Technology solutions for Muslim community
 
 ### 💡 **My Expertise:**
 - **Languages:** JavaScript, Python, HTML, CSS
@@ -48,8 +47,8 @@ class AhmadNasir:
         return [
             "AI-powered web applications",
             "Smart automation workflows", 
-            "Islamic tech solutions",
-            "AI tool integration"
+            "AI tool integration",
+            "Web development projects"
         ]
 
 me = AhmadNasir()
