@@ -91,7 +91,7 @@ print(me.get_motto())
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callmeahmadnasir-ops&theme=tokyonight&hide_border=true)](https://github.com/callmeahmadnasir-ops)
 
 </div>
 
