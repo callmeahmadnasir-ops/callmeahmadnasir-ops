@@ -12,6 +12,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/callmeahmadnasir-ops?label=Stars&style=social)](https://github.com/callmeahmadnasir-ops)
 [![Profile Views](https://komarev.com/ghpvc/?username=callmeahmadnasir-ops&color=blueviolet&style=flat-square)](https://github.com/callmeahmadnasir-ops)
 
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
