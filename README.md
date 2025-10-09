@@ -1,8 +1,12 @@
-# 👋 Hey there! I'm Ahmad Nasir
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F7D794&height=200&section=header&text=Ahmad%20Nasir&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there! I'm Ahmad Nasir
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Expert+%26+App+Developer;Automation+Engineer;AI+Integration+Specialist;Building+Smart+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Expert+%26+App+Developer;Automation+Engineer;AI+Integration+Specialist;Building+Smart+Solutions;Welcome+to+my+GitHub+Profile!)
 
 [![GitHub followers](https://img.shields.io/github/followers/callmeahmadnasir-ops?label=Followers&style=social)](https://github.com/callmeahmadnasir-ops)
 [![GitHub stars](https://img.shields.io/github/stars/callmeahmadnasir-ops?label=Stars&style=social)](https://github.com/callmeahmadnasir-ops)
@@ -12,7 +16,9 @@
 
 </div>
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ```python
 class AhmadNasir:
@@ -38,7 +44,7 @@ print(me.get_motto())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 What I'm Working On
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> What I'm Working On
 
 ### 🤖 AI App Development
 - **🧠 AI-Powered Applications** - Building intelligent web apps with AI integration
@@ -55,7 +61,7 @@ print(me.get_motto())
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's connect and build something amazing together!***&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </div>
 
-## 💻 Tech Stack & Expertise
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack & Expertise
 
 <div align="center">
 
@@ -90,7 +96,7 @@ print(me.get_motto())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Analytics
 
 <div align="center">
 
@@ -103,10 +109,10 @@ print(me.get_motto())
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🔥%20GitHub%20Stats%20🔥&fontSize=15&fontColor=fff"/>
 </div>
 
-## 🏆 Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
@@ -125,7 +131,7 @@ print(me.get_motto())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Activity
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Contribution Activity
 
 <div align="center">
   
@@ -134,10 +140,10 @@ print(me.get_motto())
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI;One+App+at+a+Time;Let's+Create+Something+Amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI;One+App+at+a+Time;Let's+Create+Something+Amazing!;Daily+AI+Explorer;Smart+Solutions+Builder" />
 </div>
 
-## 🎯 Current Goals & Focus
+## <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="35"> Current Goals & Focus
 
 ### 🚀 AI Expertise
 - 🤖 **Daily AI Exploration**: Testing 10+ new AI tools every day
@@ -151,7 +157,7 @@ print(me.get_motto())
 - [ ] Islamic tech solutions with AI integration
 - [ ] Smart chatbots and AI assistants
 
-## 🏅 Skills & Expertise
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Skills & Expertise
 
 <div align="center">
 
@@ -163,7 +169,7 @@ print(me.get_motto())
 
 </div>
 
-## 💡 What Makes Me Special
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What Makes Me Special
 
 ### 🔥 Daily AI Routine
 ```markdown
@@ -183,7 +189,7 @@ Ahmad's AI Exploration:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Connect & Collaborate
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect & Collaborate
 
 <div align="center">
 
@@ -201,7 +207,7 @@ Ahmad's AI Exploration:
 - 🎓 **Knowledge Sharing**: AI tools and automation
 - 🌟 **Islamic Tech**: Technology for Muslim community
 
-## 💡 Fun Facts
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Fun Facts***
 
 ```javascript
 const ahmadFacts = {
@@ -215,7 +221,7 @@ const ahmadFacts = {
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E1EAFC,100:F7D794&height=40&section=header&text=🌟%20Thanks%20for%20visiting!%20🌟&fontSize=15&fontColor=fff"/>
 </div>
 
 ---
@@ -228,7 +234,7 @@ const ahmadFacts = {
 
 **Building the future with AI, one app at a time**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Always+happy+to+connect!;Let's+build+the+future+together!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Always+happy+to+connect!;Let's+build+the+future+together!;AI+%2B+Innovation+%3D+Success" />
 
 </div>
 
@@ -239,5 +245,5 @@ const ahmadFacts = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F7D794&height=120&section=footer"/>
 </div>
